@@ -1,10 +1,11 @@
 # AI and ML Assignments
 
 ### Projects
-
 This repository contains the assignments and end-to-end projects completed during the **FAANG Specialization** programs.
 
-<p><b>Kaggle:</b> Datasets and notebooks.</p>
+<p>
+  <b>Kaggle:</b> Datasets and notebooks.
+</p>
 
 <p>
 <a href="https://www.kaggle.com/sohaibdevv">
@@ -13,7 +14,9 @@ This repository contains the assignments and end-to-end projects completed durin
 </a>
 </p>
 
-<p><b>Hugging Face:</b>Access my hosted models and demos.</p>
+<p>
+  <b>Hugging Face:</b>Access my hosted models and demos.
+</p>
 
 <p>
 <a href="https://huggingface.co/sohaibdevv">
